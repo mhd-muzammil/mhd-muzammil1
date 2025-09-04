@@ -24,9 +24,10 @@
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">📊 GitHub Overview</h2>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhd-muzammil&layout=compact&langs_count=8&theme=algolia" />
-
+<div align="center" ">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramsaoji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 412px;"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhd-muzammil&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="width: 412px;"/>
+</div>
 
 
 
