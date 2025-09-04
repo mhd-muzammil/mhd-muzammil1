@@ -20,7 +20,7 @@
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">💻 Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,HTML5,CSS3,nodejs,mongodb,Express.js,tailwind,git,github,vercel&perline=6" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,mongodb,Express.js,tailwind,git,github,vercel&perline=6" alt="Technologies">
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">📊 GitHub Overview</h2>
