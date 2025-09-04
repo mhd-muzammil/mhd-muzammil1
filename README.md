@@ -1,6 +1,11 @@
-<div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Ram%20Saoji&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" width="100%">
+<div align="center" style="width: 100%;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=Mohamed%20Muzammil&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" 
+    alt="Mohamed Muzammil Header" 
+    width="100%"
+  />
 </div>
+
 
 <h2 align="center" style="font-size: clamp(1.5rem, 3vw, 2rem);">Frontend Developer | React & Express Specialist | MERN Stack Developer</h2>
 
