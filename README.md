@@ -34,9 +34,9 @@
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">🌐 Connect</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/ramsaoji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="mailto:myofficial@techness.in"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail"/></a> &nbsp;
-  <a href="https://ramsaoji.techness.in"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=paddle&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-muzammil-01a111371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:zamil627810@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail"/></a> &nbsp;
+  <a href="https://mhd-muzammil.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=paddle&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br>
